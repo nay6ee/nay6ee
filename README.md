@@ -1,5 +1,5 @@
 ## About Me
-- I'm interested in machine learning and web3
+- I'm interested in Machine Learning and Web3.
 - I’m currently learning TensorFlow and PyTorch.
 - I can assist with model development and evaluation.
 - I enjoy being active, travel, good food, cycling, airstream roadtrips, and F1.
