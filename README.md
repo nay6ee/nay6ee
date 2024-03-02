@@ -2,7 +2,7 @@
 - I'm interested in machine learning and web3
 - I’m currently learning TensorFlow and PyTorch.
 - I can assist with model development and evaluation.
-- I enjoy being active, travel, good food, cycling, airstream roadtrips, and Formula 1.
+- I enjoy being active, travel, good food, cycling, airstream roadtrips, and F1.
 - I'm passionate about science, engineering, design, makerspaces, and music discovery.
 <!---
 nay6ee/nay6ee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
